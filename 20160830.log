@@ -1,0 +1,69 @@
+RX: /dev/ttyUSB0, TX: /dev/ttyUSB1
+[-1368539764] [DS:00|CON: NO] a-->b <13> 7seg set: seq(00)
+[0000015379] [DS:00|CON: NO] a<--b <16> 7seg ack: seq(00)
+[0000956768] [DS:00|CON: NO] a-->b <11> auth seed get: seq(01)
+[0000027614] [DS:00|CON: NO] a<--b <14> auth seed reply: seq(01)
+[0000042941] [DS:00|CON: NO] a-->b <12> auth try: seq(02)
+[0000123713] [DS:00|CON: NO] a<--b <17> get vend info: seq(00)
+[0000008290] [DS:00|CON: NO] a<--b <18> get vend func: seq(00)
+[0000031971] [DS:00|CON: NO] a<--b <21> get device info: seq(00)
+[0000008035] [DS:00|CON: NO] a<--b <15> auth ack: seq(02)
+[0000028084] [DS:00|CON: NO] a<--b <19> get disc info: seq(00)
+[0000010739] [DS:00|CON: NO] a-->b <23> vcard emu pre: seq(03)
+[0000021280] [DS:00|CON: NO] a<--b <20> -- ATT_CHAR_VCRD_RSP --
+[0000084116] [DS:00|CON: NO] a<--b <22> -- ATT_CHAR_DEVI_INF (unknown: 24F7)
+[0003129412] [DS:00|CON: NO] a-->b <24> Heartbeat (Normal)
+[0001058149] [DS:00|CON: NO] a-->b <26> >>>>>>> Disconnection notif >>>>>>>>>>>
+[0000036011] [DS:13|CON: NO] a<--b <19> get disc info: seq(00)
+[0000007980] [DS:13|CON: NO] a<--b <27> BleMod: Toggle Mode
+[0000004011] [DS:13|CON: NO] a<--b <10> Clearing char: 00
+[0000003995] [DS:13|CON: NO] a<--b <10> Clearing char: 01
+[0000003152] [DS:13|CON: NO] a<--b <10> Clearing char: 06
+[0000002619] [DS:13|CON: NO] a<--b <10> Clearing char: 07
+[0000004233] [DS:13|CON: NO] a<--b <10> Clearing char: 03
+[0000004142] [DS:13|CON: NO] a<--b <10> Clearing char: 04
+[0000002743] [DS:13|CON: NO] a<--b <10> Clearing char: 0A
+[0000004116] [DS:13|CON: NO] a<--b <10> Clearing char: 0A
+[0000529871] [DS:13|CON: NO] a-->b <25> <<<<<< Connection notif <<<<<<<<<<<<
+[0000019218] [DS:13|CON: NO] a<--b <27> BleMod: Connected mode
+[0000774365] [DS:13|CON: NO] a-->b <13> 7seg set: seq(00)
+[0000018728] [DS:13|CON: NO] a<--b <16> 7seg ack: seq(00)
+[0000954506] [DS:13|CON: NO] a-->b <11> auth seed get: seq(01)
+[0000025120] [DS:13|CON: NO] a<--b <14> auth seed reply: seq(01)
+[0000044934] [DS:13|CON: NO] a-->b <12> auth try: seq(02)
+[0000129963] [DS:13|CON: NO] a<--b <17> get vend info: seq(00)
+[0000008266] [DS:13|CON: NO] a<--b <18> get vend func: seq(00)
+[0000029242] [DS:13|CON: NO] a<--b <21> get device info: seq(00)
+[0000011904] [DS:13|CON: NO] a<--b <15> auth ack: seq(02)
+[0000024023] [DS:13|CON: NO] a<--b <19> get disc info: seq(00)
+[0000008586] [DS:13|CON: NO] a-->b <23> vcard emu pre: seq(03)
+[0000020501] [DS:13|CON: NO] a<--b <20> -- ATT_CHAR_VCRD_RSP --
+[0000084001] [DS:13|CON: NO] a<--b <22> -- ATT_CHAR_DEVI_INF (unknown: 24F7)
+[0001184660] [DS:13|CON: NO] a-->b <24> Heartbeat (Normal)
+[0004577096] [DS:13|CON: NO] a-->b <26> >>>>>>> Disconnection notif >>>>>>>>>>>
+[0000035280] [DS:13|CON: NO] a<--b <19> get disc info: seq(00)
+[0000007983] [DS:13|CON: NO] a<--b <27> BleMod: Toggle Mode
+[0000004021] [DS:13|CON: NO] a<--b <10> Clearing char: 00
+[0000003988] [DS:13|CON: NO] a<--b <10> Clearing char: 01
+[0000002734] [DS:13|CON: NO] a<--b <10> Clearing char: 06
+[0000002981] [DS:13|CON: NO] a<--b <10> Clearing char: 07
+[0000004032] [DS:13|CON: NO] a<--b <10> Clearing char: 03
+[0000003994] [DS:13|CON: NO] a<--b <10> Clearing char: 04
+[0000003002] [DS:13|CON: NO] a<--b <10> Clearing char: 0A
+[0000003997] [DS:13|CON: NO] a<--b <10> Clearing char: 0A
+[0000038366] [DS:13|CON: NO] a-->b <25> <<<<<< Connection notif <<<<<<<<<<<<
+[0000017039] [DS:13|CON: NO] a<--b <27> BleMod: Connected mode
+[0000295711] [DS:13|CON: NO] a-->b <24> Heartbeat (Normal)
+[0000465998] [DS:13|CON: NO] a-->b <13> 7seg set: seq(00)
+[0000016499] [DS:13|CON: NO] a<--b <16> 7seg ack: seq(00)
+[0000993167] [DS:13|CON: NO] a-->b <11> auth seed get: seq(01)
+[0000025458] [DS:13|CON: NO] a<--b <14> auth seed reply: seq(01)
+[0000046011] [DS:13|CON: NO] a-->b <12> auth try: seq(02)
+[0000123910] [DS:13|CON: NO] a<--b <17> get vend info: seq(00)
+[0000008258] [DS:13|CON: NO] a<--b <18> get vend func: seq(00)
+[0000031983] [DS:13|CON: NO] a<--b <21> get device info: seq(00)
+[0000008155] [DS:13|CON: NO] a<--b <15> auth ack: seq(02)
+[0000027985] [DS:13|CON: NO] a<--b <19> get disc info: seq(00)
+[0000010159] [DS:13|CON: NO] a-->b <23> vcard emu pre: seq(03)
+[0000022967] [DS:13|CON: NO] a<--b <20> -- ATT_CHAR_VCRD_RSP --
+[0000084001] [DS:13|CON: NO] a<--b <22> -- ATT_CHAR_DEVI_INF (unknown: 24F7)
